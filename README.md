@@ -41,7 +41,7 @@
 ---
 
 <p align="center">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/affanjamal?cardType=github&theme=github-dark" alt="Affan Jamal GitHub Stats" width="600"/>
+   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&preferLogin=true">    <img  alt="AffanJamal's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/affan-jamal?cardType=github&theme=github-dark&preferLogin=true" width=500 />  </a>
 </p>
 
 <p align="center">
