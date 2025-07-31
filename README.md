@@ -28,10 +28,10 @@
   <a href="mailto:affanjamal800@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://instagram.com/yourusername" target="_blank">
+  <a href="https://www.instagram.com/a.f_f.an?igsh=N2doeXU1dDNrd2Vv&utm_source=qr" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
+  <a href="https://x.com/affan_004?s=21" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
